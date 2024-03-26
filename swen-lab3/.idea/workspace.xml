@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b75bdeb-accd-4a69-bacc-90443f258f8e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/io/DatabaseFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/ColumnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/DatabaseImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/DuplicateKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/InvalidKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/InvalidRowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/lang/RowType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swen221/database/testing/DatabaseTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2eEGJHOmNCDxnndf2wOZxBxyW7O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.DatabaseTests.executor": "Run",
+    "JUnit.DatabaseTests.test01_ValidFile.executor": "Debug",
+    "JUnit.DatabaseTests.test06_GetValidKey.executor": "Run",
+    "JUnit.DatabaseTests.test07_GetValidKey.executor": "Run",
+    "JUnit.DatabaseTests.test08_GetInvalidKey.executor": "Debug",
+    "JUnit.DatabaseTests.test10_AddValidRow.executor": "Run",
+    "JUnit.DatabaseTests.test11_AddInvalidRow.executor": "Run",
+    "JUnit.DatabaseTests.test13_AddInvalidRow.executor": "Run",
+    "JUnit.DatabaseTests.test15_AddInvalidRow.executor": "Debug",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ava/Project_Storage/idea/Lab3/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/ava/Project_Storage/idea/Lab3/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseTests">
+    <configuration name="DatabaseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swen221.database.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swen221.database.testing" />
+      <option name="MAIN_CLASS_NAME" value="swen221.database.testing.DatabaseTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.test10_AddValidRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swen221.database.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swen221.database.testing" />
+      <option name="MAIN_CLASS_NAME" value="swen221.database.testing.DatabaseTests" />
+      <option name="METHOD_NAME" value="test10_AddValidRow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.test11_AddInvalidRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swen221.database.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swen221.database.testing" />
+      <option name="MAIN_CLASS_NAME" value="swen221.database.testing.DatabaseTests" />
+      <option name="METHOD_NAME" value="test11_AddInvalidRow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.test13_AddInvalidRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swen221.database.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swen221.database.testing" />
+      <option name="MAIN_CLASS_NAME" value="swen221.database.testing.DatabaseTests" />
+      <option name="METHOD_NAME" value="test13_AddInvalidRow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.test15_AddInvalidRow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swen221.database.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swen221.database.testing" />
+      <option name="MAIN_CLASS_NAME" value="swen221.database.testing.DatabaseTests" />
+      <option name="METHOD_NAME" value="test15_AddInvalidRow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseTests" />
+        <item itemvalue="JUnit.DatabaseTests.test15_AddInvalidRow" />
+        <item itemvalue="JUnit.DatabaseTests.test10_AddValidRow" />
+        <item itemvalue="JUnit.DatabaseTests.test13_AddInvalidRow" />
+        <item itemvalue="JUnit.DatabaseTests.test11_AddInvalidRow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-25a4bffe" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b75bdeb-accd-4a69-bacc-90443f258f8e" name="Changes" comment="" />
+      <created>1711462253362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711462253362</updated>
+      <workItem from="1711462255334" duration="1474000" />
+      <workItem from="1711465043914" duration="1045000" />
+      <workItem from="1711466109183" duration="31000" />
+      <workItem from="1711466158801" duration="2738000" />
+      <workItem from="1711477073886" duration="7893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
